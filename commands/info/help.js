@@ -33,7 +33,7 @@ module.exports = {
       ])
       .setThumbnail(message.author.displayAvatarURL({ dynamic: true }))
       .setImage(
-        "https://cdn.discordapp.com/attachments/1372820200176619581/1374591512515711026/New_Project_21_17741DD.gif?ex=682e9b9b&is=682d4a1b&hm=ff6924ad9efeccc1a392bb5a172f9b74a6a98658859edc03c026bc7c66462e5c&",
+        "https://media.discordapp.net/attachments/1372164540741058590/1374607133198258207/New_Project_21_45E3B2E.gif?ex=682eaa27&is=682d58a7&hm=128f6fa22160f61cf651169776a963f325ad50592a9153d3a84851c794ad4988&=&width=550&height=310",
       )
       .setFooter({
         text: `Just A Powerful Discord bot Made By Code X`,
