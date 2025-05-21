@@ -1,0 +1,38 @@
+{
+  "dependencies": {
+    "ascii-table": "^0.0.9",
+    "discord.js": "^13.15.1",
+    "fs": "^0.0.1-security",
+    "indomitable": "^2.0.3",
+    "moment": "^2.29.4",
+    "moment-duration-format": "^2.3.2",
+    "ms": "^2.1.3",
+    "quickmongo": "^5.2.0"
+  },
+  "name": "Kuzu-Advanced-Security-Bot-V3",
+  "version": "3.0.0",
+  "description": "A well developed advanced security discord bot yet powerful",
+  "main": "app.js",
+  "scripts": {
+    "test": "app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gvdkreddy69/Kuzu-Advanced-Security-Bot-V3.git"
+  },
+  "keywords": [
+    "discord",
+    "bot",
+    "antinuk",
+    "security",
+    "advanced",
+    "overpowered",
+    "bot"
+  ],
+  "author": "Team Code X",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/gvdkreddy69/Kuzu-Advanced-Security-Bot-V3/issues"
+  },
+  "homepage": "https://github.com/gvdkreddy69/Kuzu-Advanced-Security-Bot-V3#readme"
+}
